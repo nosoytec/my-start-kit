@@ -1,7 +1,6 @@
 {
     "name": "nosoytec/my-start-kit",
     "description": "Mi kit de inicio para Filament",
-    "type": "project",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
